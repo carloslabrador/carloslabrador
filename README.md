@@ -5,7 +5,6 @@
 Ingeniero full stack. Entré en Netkia como estudiante en prácticas y hoy dirijo el área de ingeniería, con un equipo de 12 personas. Sigo programando a diario: el equipo, los proyectos y el código van juntos.
 
 - 🏗️ En el trabajo: plataformas con **Angular + FastAPI** y **Symfony**, integraciones con terceros (incluida la banca), procesos asíncronos con RabbitMQ y Redis, e IA aplicada al procesado de documentos.
-- 🧪 Fuera del trabajo: bots de paper trading, modelos de decisión y pequeñas apps útiles.
 - 🎓 DAW · SMR · Desarrollador 10x con IA
 
 🌐 [carloslabrador.dev](https://carloslabrador.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-labrador-amieva-4b5b10162/) · ✉️ contacto@carloslabrador.dev
@@ -30,18 +29,6 @@ Ingeniero full stack. Entré en Netkia como estudiante en prácticas y hoy dirij
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-### 🚀 Proyectos personales
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| **[Laya playground](https://brainfunctioncollapse.com/laya)** | Web, tres juegos, un benchmark y una skill de agente para [Laya](https://github.com/NandhaKishorM/laya), un modelo de decisión open source: el modelo juega solo a Flappy, Tetris y un runner a ~30 decisiones/s. [Código](https://github.com/wdobry/laya-playground) | Python · JS |
-| **Pa-ga-me** | Divide gastos en grupo sin registrarte: quien tiene el enlace, entra. Web + app Android. | TypeScript · Fastify · Vite · SQLite |
-| **poly-money** | Bot de paper trading event-driven para Polymarket. Pasar a dinero real es cambiar una sola clase (`BaseBroker`). | Python · Redis · Streamlit · Docker |
-| **laya-market-bot** | Bot experimental de paper trading sobre Binance: backtesting walk-forward y trading simulado en vivo. Documenta por qué Laya no supera el listón con velas. | Python · SQLite · WebSockets |
-| **[carloslabrador.dev](https://carloslabrador.dev)** | Mi portfolio, bilingüe, con fondo 3D. | React · Vite · three.js |
 
 ---
 
