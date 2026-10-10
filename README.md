@@ -29,10 +29,3 @@ Ingeniero full stack. Entré en Netkia como estudiante en prácticas y hoy dirij
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carloslabrador&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslabrador&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
